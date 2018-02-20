@@ -1,0 +1,8 @@
+# IMAGING CUT
+## REQUIRE 
+- PIL
+- python (2.5 - 2.7)
+## USAGE
+- install PIL (python2 setup.py install)
+- edit 'filename' in cutter.py
+- python2 cutter.py
